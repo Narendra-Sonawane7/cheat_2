@@ -1,0 +1,23 @@
+{
+    "groq_api_key": "",
+    "interview_mode": "interview",
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "ocr_language": "eng",
+    "auto_scan_interval_seconds": 10,
+    "overlay_display_seconds": 30,
+    "font_size": 13,
+    "language": "Auto-Detect",
+    "resume_text": "",
+    "hotkey_scan_screen": "ctrl+enter",
+    "hotkey_toggle_audio": "ctrl+shift+a",
+    "hotkey_toggle_auto_scan": "ctrl+shift+d",
+    "hotkey_move_up": "ctrl+up",
+    "hotkey_move_down": "ctrl+down",
+    "hotkey_move_left": "ctrl+left",
+    "hotkey_move_right": "ctrl+right",
+    "hotkey_resize_up": "ctrl+shift+up",
+    "hotkey_resize_down": "ctrl+shift+down",
+    "hotkey_resize_left": "ctrl+shift+left",
+    "hotkey_resize_right": "ctrl+shift+right",
+    "interview_language": "Auto"
+}
